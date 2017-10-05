@@ -1,2 +1,8 @@
 # vtornik
 sedobed
+
+
+
+
+
+making conflict
